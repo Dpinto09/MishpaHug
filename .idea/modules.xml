@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MishpaHug.iml" filepath="$PROJECT_DIR$/.idea/modules/MishpaHug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MishpaHug_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MishpaHug_main.iml" group="MishpaHug" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MishpaHug_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MishpaHug_test.iml" group="MishpaHug" />
+    </modules>
+  </component>
+</project>
