@@ -2,24 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="917ed824-3488-46bf-945e-23683f9011af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/ApplicationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/HelperBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/NavigationHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/ProfileHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/RegistrationHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/LogoutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/ProfileModifyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/ApplicationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/EventHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/HelperBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/SessionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/UserHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/model/NotRegisteredUserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/model/ProfileAboutMySelfData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/model/ProfilePersonalInformationData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/EventCreationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/FillAccountTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/RegistrationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MishpaHug/out/test/classes/com/telRan/mishpahug/test/CreateEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MishpaHug/out/test/classes/com/telRan/mishpahug/test/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MishpaHug/out/test/classes/com/telRan/mishpahug/test/ProfileTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MishpaHug/out/test/classes/com/telRan/mishpahug/test/RegistrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MishpaHug/out/test/classes/com/telRan/mishpahug/test/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/MishpaHug/out/test/classes/com/telRan/mishpahug/test/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/CreateEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/ProfileTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/RegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/RegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/out/test/classes/com/telRan/mishpahug/test/CreateAccountTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/out/test/classes/com/telRan/mishpahug/test/CreateEventTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/out/test/classes/com/telRan/mishpahug/test/LoginTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/out/test/classes/com/telRan/mishpahug/test/ProfileTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/out/test/classes/com/telRan/mishpahug/test/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/ApplicationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/HelperBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/NavigationHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/ProfileHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/RegistrationHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/LogoutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/ProfileModifyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/RegistrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/TestBase.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/MishpaHug/.gradle/" />
     <ignored path="$PROJECT_DIR$/MishpaHug/build/" />
@@ -46,34 +57,36 @@
     <session id="-2134410154">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gradle" value="1" />
-          <entry key="java" value="53" />
+          <entry key="gradle" value="2" />
+          <entry key="java" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="53" />
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="78" />
+          <entry key="dummy" value="144" />
           <entry key="gradle" value="2" />
-          <entry key="java" value="11957" />
+          <entry key="java" value="15803" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="11957" />
-          <entry key="PLAIN_TEXT" value="78" />
+          <entry key="JAVA" value="15803" />
+          <entry key="PLAIN_TEXT" value="144" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -82,10 +95,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/TestBase.java">
+        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-224">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="864">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,28 +107,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/RegistrationTest.java">
+        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/FillAccountTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            <state relative-caret-position="34">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/ProfileModifyTest.java">
+        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/RegistrationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-258">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/LogoutTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-377">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="105">
+              <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,10 +128,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/LoginTest.java">
+        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/EventHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,54 +140,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/ApplicationManager.java">
+        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/HelperBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#819#820#0" expanded="true" />
-                <element signature="e#858#859#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/HelperBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/NavigationHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1445">
-              <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/ProfileHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1734">
-              <caret line="102" column="1" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="83" column="16" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -192,10 +152,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/RegistrationHelper.java">
+        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/UserHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="94" column="52" selection-start-line="94" selection-start-column="48" selection-end-line="94" selection-end-column="52" />
+            <state relative-caret-position="186">
+              <caret line="106" column="9" lean-forward="true" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/EventCreationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="26" column="103" selection-start-line="26" selection-start-column="103" selection-end-line="26" selection-end-column="103" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -512,12 +484,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MishpaHug/build.gradle" />
-        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/CreateAccount.java" />
-        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/CreateAccountTests.java" />
-        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/GoToEventsTests.java" />
-        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/CreateEventTests.java" />
-        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/CreateAccountIrreligiousTest.java" />
         <option value="$PROJECT_DIR$/MishpaHug/src/test/java/CreateAccountReligiousTest.java" />
         <option value="$PROJECT_DIR$/MishpaHug/src/test/java/CreateAccounTest.java" />
         <option value="$PROJECT_DIR$/MishpaHug/src/test/java/CreateAccountTest.java" />
@@ -549,14 +515,33 @@
         <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/ProfilHelper.java" />
         <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/ProfileHelper.java" />
         <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/RegistrationHelper.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/ModifyProfileTests.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/CreateProfileTests.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/CreateAccountTests.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/fillAccountTests.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/HelperBase.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/model/NotRegisterUserData.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/model/NotRegisteredUserData.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/LoginTests.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/TestBase.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/SessionHelper.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/com/telRan/Mishpahug/data/ProfileData.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/UserHelper.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/ProfileAboutMySelfData.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/data/ProfileData.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/data/ProfilePersonalInformationData.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/data/ProfileAboutMySelfData.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/RegistrationTests.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/EventHelper.java" />
+        <option value="$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/EventCreationTests.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1450" />
-    <option name="y" value="-28" />
-    <option name="width" value="845" />
-    <option name="height" value="695" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-15" />
+    <option name="width" value="1630" />
+    <option name="height" value="1740" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -597,7 +582,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mishpahug" type="462c0819:PsiDirectoryNode" />
+              <item name="Mishpahug" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MishpaHug" type="b2602c69:ProjectViewProjectNode" />
@@ -605,7 +590,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mishpahug" type="462c0819:PsiDirectoryNode" />
+              <item name="Mishpahug" type="462c0819:PsiDirectoryNode" />
               <item name="manager" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -614,20 +599,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mishpahug" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Mishpahug" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540196321831" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540807293186" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -652,18 +636,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ProfileModify.testsProfileForm">
-    <configuration name="LogOutTest.testLoginWithButtonCreateAccount" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.EventCreationTests.testCreationEventFromEventsList">
+    <configuration name="EventCreationTests.testCreationEventFromEventsList" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MishpaHug_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telRan.mishpahug.test.ProfileModifTest" />
+          <option name="PATTERN" value="com.telRan.Mishpahug.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.telRan.mishpahug.test" />
-      <option name="MAIN_CLASS_NAME" value="com.telRan.mishpahug.test.LogOutTest" />
-      <option name="METHOD_NAME" value="testLoginWithButtonCreateAccount" />
+      <option name="PACKAGE_NAME" value="com.telRan.Mishpahug.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telRan.Mishpahug.tests.EventCreationTests" />
+      <option name="METHOD_NAME" value="testCreationEventFromEventsList" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -671,17 +655,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogOutTest.testLoginWithButtonGoToEvent" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FillAccountTests.testCreationAccountByButtonCreate" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MishpaHug_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telRan.mishpahug.test.ProfileModifTest" />
+          <option name="PATTERN" value="com.telRan.Mishpahug.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.telRan.mishpahug.test" />
-      <option name="MAIN_CLASS_NAME" value="com.telRan.mishpahug.test.LogOutTest" />
-      <option name="METHOD_NAME" value="testLoginWithButtonGoToEvent" />
+      <option name="PACKAGE_NAME" value="com.telRan.Mishpahug.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telRan.Mishpahug.tests.FillAccountTests" />
+      <option name="METHOD_NAME" value="testCreationAccountByButtonCreate" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -689,17 +673,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogOutTest.testLoginWithButtonLogin" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FillAccountTests.testCreationAccountByButtonEvents" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MishpaHug_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telRan.mishpahug.test.ProfileModifTest" />
+          <option name="PATTERN" value="com.telRan.Mishpahug.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.telRan.mishpahug.test" />
-      <option name="MAIN_CLASS_NAME" value="com.telRan.mishpahug.test.LogOutTest" />
-      <option name="METHOD_NAME" value="testLoginWithButtonLogin" />
+      <option name="PACKAGE_NAME" value="com.telRan.Mishpahug.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telRan.Mishpahug.tests.FillAccountTests" />
+      <option name="METHOD_NAME" value="testCreationAccountByButtonEvents" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -707,17 +691,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProfileModify.testsProfileForm" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTests.testCreateProfile" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MishpaHug_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telRan.mishpahug.test.ProfileModifTest" />
+          <option name="PATTERN" value="com.telRan.Mishpahug.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.telRan.mishpahug.test" />
-      <option name="MAIN_CLASS_NAME" value="com.telRan.mishpahug.test.ProfileModify" />
-      <option name="METHOD_NAME" value="testsProfileForm" />
+      <option name="PACKAGE_NAME" value="com.telRan.Mishpahug.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telRan.Mishpahug.tests.LoginTests" />
+      <option name="METHOD_NAME" value="testCreateProfile" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -725,18 +709,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegistrationTests.testCreateAccountWithButtonGoToEvent" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RegistrationTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MishpaHug_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telRan.mishpahug.test.ProfileModifTest" />
+          <option name="PATTERN" value="com.telRan.Mishpahug.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.telRan.mishpahug.test" />
-      <option name="MAIN_CLASS_NAME" value="com.telRan.mishpahug.test.RegistrationTests" />
-      <option name="METHOD_NAME" value="testCreateAccountWithButtonGoToEvent" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.telRan.Mishpahug.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telRan.Mishpahug.tests.RegistrationTests" />
       <properties />
       <listeners />
       <method v="2">
@@ -744,19 +726,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.RegistrationTests.testCreateAccountWithButtonGoToEvent" />
-      <item itemvalue="TestNG.LogOutTest.testLoginWithButtonGoToEvent" />
-      <item itemvalue="TestNG.LogOutTest.testLoginWithButtonCreateAccount" />
-      <item itemvalue="TestNG.LogOutTest.testLoginWithButtonLogin" />
-      <item itemvalue="TestNG.ProfileModify.testsProfileForm" />
+      <item itemvalue="TestNG.FillAccountTests.testCreationAccountByButtonCreate" />
+      <item itemvalue="TestNG.FillAccountTests.testCreationAccountByButtonEvents" />
+      <item itemvalue="TestNG.LoginTests.testCreateProfile" />
+      <item itemvalue="TestNG.RegistrationTests" />
+      <item itemvalue="TestNG.EventCreationTests.testCreationEventFromEventsList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ProfileModify.testsProfileForm" />
-        <item itemvalue="TestNG.LogOutTest.testLoginWithButtonCreateAccount" />
-        <item itemvalue="TestNG.LogOutTest.testLoginWithButtonLogin" />
-        <item itemvalue="TestNG.LogOutTest.testLoginWithButtonGoToEvent" />
-        <item itemvalue="TestNG.RegistrationTests.testCreateAccountWithButtonGoToEvent" />
+        <item itemvalue="TestNG.EventCreationTests.testCreationEventFromEventsList" />
+        <item itemvalue="TestNG.RegistrationTests" />
+        <item itemvalue="TestNG.LoginTests.testCreateProfile" />
+        <item itemvalue="TestNG.FillAccountTests.testCreationAccountByButtonEvents" />
+        <item itemvalue="TestNG.FillAccountTests.testCreationAccountByButtonCreate" />
       </list>
     </recent_temporary>
   </component>
@@ -774,69 +756,69 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProfileTests_testsProfileForm - 2018.10.21 at 14h 05m 32s.xml">
-      <configuration name="ProfileTests.testsProfileForm" configurationId="TestNG" />
+    <history-entry file="CreateProfileTests_testCreateProfile - 2018.10.24 at 15h 56m 07s.xml">
+      <configuration name="CreateProfileTests.testCreateProfile" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ProfileTests_testsProfileForm - 2018.10.21 at 14h 06m 38s.xml">
-      <configuration name="ProfileTests.testsProfileForm" configurationId="TestNG" />
+    <history-entry file="CreateProfileTests_testCreateProfile - 2018.10.24 at 16h 00m 10s.xml">
+      <configuration name="CreateProfileTests.testCreateProfile" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ProfileTests_testsProfileForm - 2018.10.22 at 10h 09m 57s.xml">
-      <configuration name="ProfileTests.testsProfileForm" configurationId="TestNG" />
+    <history-entry file="CreateProfileTests_testCreateProfile - 2018.10.24 at 16h 01m 31s.xml">
+      <configuration name="CreateProfileTests.testCreateProfile" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ProfileTests_testsProfileForm - 2018.10.22 at 10h 10m 51s.xml">
-      <configuration name="ProfileTests.testsProfileForm" configurationId="TestNG" />
+    <history-entry file="CreateProfileTests_testCreateProfile - 2018.10.24 at 16h 03m 36s.xml">
+      <configuration name="CreateProfileTests.testCreateProfile" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ProfileTests_testsProfileForm - 2018.10.22 at 10h 18m 13s.xml">
-      <configuration name="ProfileTests.testsProfileForm" configurationId="TestNG" />
+    <history-entry file="CreateProfileTests_testCreateProfile - 2018.10.24 at 16h 07m 56s.xml">
+      <configuration name="CreateProfileTests.testCreateProfile" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ProfileTests_testsProfileForm - 2018.10.22 at 10h 24m 16s.xml">
-      <configuration name="ProfileTests.testsProfileForm" configurationId="TestNG" />
+    <history-entry file="CreateProfileTests_testCreateProfile - 2018.10.24 at 16h 08m 59s.xml">
+      <configuration name="CreateProfileTests.testCreateProfile" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTests_testLoginWithButtonCreateAccount - 2018.10.22 at 10h 33m 21s.xml">
-      <configuration name="LoginTests.testLoginWithButtonCreateAccount" configurationId="TestNG" />
+    <history-entry file="RegistrationTests - 2018.10.24 at 23h 10m 38s.xml">
+      <configuration name="RegistrationTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ProfileTests_testsProfileForm - 2018.10.22 at 10h 45m 36s.xml">
-      <configuration name="ProfileTests.testsProfileForm" configurationId="TestNG" />
+    <history-entry file="RegistrationTests - 2018.10.24 at 23h 12m 42s.xml">
+      <configuration name="RegistrationTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ProfileTests_testsProfileForm - 2018.10.22 at 10h 47m 25s.xml">
-      <configuration name="ProfileTests.testsProfileForm" configurationId="TestNG" />
+    <history-entry file="RegistrationTests - 2018.10.29 at 12h 01m 22s.xml">
+      <configuration name="RegistrationTests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ProfileModify_testsProfileForm - 2018.10.22 at 11h 03m 08s.xml">
-      <configuration name="ProfileModify.testsProfileForm" configurationId="TestNG" />
+    <history-entry file="EventCreationTests_testCreationEventFromEventsList - 2018.10.29 at 12h 01m 40s.xml">
+      <configuration name="EventCreationTests.testCreationEventFromEventsList" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="702" extended-state="6" />
+    <frame x="-6" y="-6" width="1293" height="702" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15951417" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08582996" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" />
-      <window_info anchor="bottom" id="Messages" weight="0.32924694" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.295972" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924694" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.295972" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39404553" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32924694" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -872,6 +854,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/EventCreationTests.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.14.0/8c0af6fdccdc89a4394de7e3a8817ed2d6e41d7d/selenium-api-3.14.0-sources.jar!/org/openqa/selenium/WebElement.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -880,44 +874,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/CreateAccountIrreligiousTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1532#1533#0" expanded="true" />
-            <element signature="e#1599#1600#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/CreateEventTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/CreateAccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1078#1079#0" expanded="true" />
-            <element signature="e#1145#1146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/CreateAccountIrreligiousTest.java" />
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/CreateEventTests.java" />
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/CreateAccountTest.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
@@ -929,12 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="287" selection-start-line="287" selection-end-line="287" />
-          <folding>
-            <element signature="e#2922#2923#0" expanded="true" />
-            <element signature="e#2966#2967#0" expanded="true" />
-            <element signature="e#11040#11204#0" expanded="true" />
-            <element signature="e#11203#11204#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -952,24 +905,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/RegistrationHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/internal/Invoker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="585" selection-start-line="585" selection-end-line="585" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -987,80 +926,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/SessionHelper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/CreateEvent.java">
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/CreateEvent.java" />
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/ProfileTest.java" />
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/CreateEventTest.java" />
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/RegistrationTests.java" />
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/ProfileModify.java" />
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/ProfileModifyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/ProfileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/CreateEventTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/RegistrationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/ProfileModify.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/HelperBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/RegistrationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-224">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="421">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1069,18 +943,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/LogoutTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-377">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="17">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/LoginTest.java">
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/ProfileModifyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1089,7 +970,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/NavigationHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
+        <state relative-caret-position="489">
           <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1103,16 +984,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/ProfileModifyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-258">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/ProfileHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1734">
+        <state relative-caret-position="1662">
           <caret line="102" column="1" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1120,22 +994,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/ApplicationManager.java">
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/RegistrationHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        <state relative-caret-position="269">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#819#820#0" expanded="true" />
-            <element signature="e#858#859#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/manager/RegistrationHelper.java">
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/mishpahug/test/RegistrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="94" column="52" selection-start-line="94" selection-start-column="48" selection-end-line="94" selection-end-column="52" />
+        <state relative-caret-position="17">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/LoginTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/model/ProfileAboutMySelfData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/model/ProfilePersonalInformationData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="83" column="16" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/model/NotRegisteredUserData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/SessionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/FillAccountTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/EventHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/EventCreationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="26" column="103" selection-start-line="26" selection-start-column="103" selection-end-line="26" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/tests/RegistrationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MishpaHug/src/test/java/com/telRan/Mishpahug/manager/UserHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="106" column="9" lean-forward="true" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
